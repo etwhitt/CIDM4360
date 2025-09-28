@@ -1,4 +1,4 @@
-# CHangelog
+# Changelog
 **Author: Eric Whitt**
 
 All notable changes to this project will be documented in this file.
